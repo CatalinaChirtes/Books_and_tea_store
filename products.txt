@@ -1,0 +1,6 @@
+"{\"name\": \"Christmas Cookie\", \"category\": \"Teas\", \"stock\": 2}"
+"{\"name\": \"Mango Tango\", \"category\": \"Teas\", \"stock\": 2}"
+"{\"name\": \"Pina Colada\", \"category\": \"Teas\", \"stock\": 2}"
+"{\"name\": \"Pride and Prejudice\", \"category\": \"Books\", \"stock\": 1}"
+"{\"name\": \"Dune\", \"category\": \"Books\", \"stock\": 0}"
+"{\"name\": \"Circles\", \"category\": \"CDs\", \"stock\": 3}"

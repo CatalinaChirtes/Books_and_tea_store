@@ -1,0 +1,5 @@
+"{\"ordered_products\": {\"Dune\": {\"amount\": \"1\"}}, \"buyer_name\": \"Catalina\", \"destination_address\": \"Timisoara\"}"
+"{\"ordered_products\": {\"Dune\": {\"amount\": \"1\"}}, \"buyer_name\": \"Catalina\", \"destination_address\": \"Timisoara\"}"
+"{\"ordered_products\": {\"Mango Tango\": {\"amount\": \"2\"}, \"Pina Colada\": {\"amount\": \"1\"}}, \"buyer_name\": \"Raul\", \"destination_address\": \"Timisoara\"}"
+"{\"ordered_products\": {\"Pride and Prejudice\": {\"amount\": \"2\"}, \"Dune\": {\"amount\": \"1\"}}, \"buyer_name\": \"Maria\", \"destination_address\": \"Sibiu\"}"
+"{\"ordered_products\": {\"Circles\": {\"amount\": \"1\"}}, \"buyer_name\": \"George\", \"destination_address\": \"Oradea\"}"
